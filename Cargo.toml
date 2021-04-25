@@ -1,0 +1,8 @@
+[package]
+name = "unsafe_unicorns"
+version = "0.0.1"
+authors = ["Cxarli"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.2"
